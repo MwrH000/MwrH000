@@ -29,6 +29,4 @@
 | Email: nxy.moraa@gmail.com
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=mwrh000&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="mwrh000's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=mwrh000&theme=tokyonight&hide_border=true" alt="mwrh000's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwrh000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="mwrh000's GitHub Stats" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mwrh000" alt="GitHub Streak" /></a>
