@@ -31,7 +31,7 @@
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=MwrH000&theme=tokyonight&show_icons=true" />
-  <img width="426" src="https://streak-stats.demolab.com?user=MwrH000&theme=tokyonight&show_icons=true" />
+  <img width="425" src="https://streak-stats.demolab.com?user=MwrH000&theme=tokyonight&show_icons=true" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwrH000&theme=tokyonight&show_icons=true" />
 </p>
