@@ -26,7 +26,7 @@
 | Python Learning Website
 
 > contact
-| Email: nxy.moraa@gmail.com sigma banget woi
+| Email: nxy.moraa@gmail.com
 ```
 
 <p align="center">
