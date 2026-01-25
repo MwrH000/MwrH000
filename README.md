@@ -12,7 +12,7 @@
 
 ```diff
 > whoami
-| Nxy Moraa
+| MwrH000 (MwrH) / Ph4nk000H (Ph4nk)
 
 > about
 | Student | Programmer
