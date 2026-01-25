@@ -1,16 +1,32 @@
-## Hi there 👋
+```diff
+$ whoami
+> Nxy Moraa
 
-<!--
-**MwrH000/MwrH000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ about
+> Student | Developer | Game Builder
+> Roblox • Python • Web
 
-Here are some ideas to get you started:
+$ skills
+> Python
+> Lua (Roblox)
+> JavaScript
+> Git / GitHub
+> Framer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ current
+> Building Roblox games
+> Learning full-stack & automation
+> School tech projects
+
+$ projects
+> Infection Arena (Roblox)
+> Marketplace System Game
+> Python Learning Website
+
+$ contact
+> Email: nxy.moraa@gmail.com
+> GitHub: github.com/nxymoraa
+
+$ status
+> Always learning. Always building.
+```
