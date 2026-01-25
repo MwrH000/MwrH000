@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MwrH000&theme=tokyonight&show_icons=true" />
-  <img src="https://streak-stats.demolab.com?user=MwrH000&theme=tokyonight&show_icons=true" />
+  <img src="https://ghproxy.com/https://github-readme-streak-stats.herokuapp.com/?user=MwrH000&theme=tokyonight&show_icons=true" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwrH000&theme=tokyonight&show_icons=true" />
 </p>
