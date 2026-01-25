@@ -29,4 +29,9 @@
 | Email: nxy.moraa@gmail.com
 ```
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mwrh000&type=png" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api.svg?username=MwrH000&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=MwrH000&theme=tokyonight&format=svg" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=MwrH000&layout=compact&theme=tokyonight" />
+</p>
