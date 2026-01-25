@@ -11,34 +11,20 @@
 ```
 
 ```diff
-$ whoami
-> Nxy Moraa
+> whoami
+| Nxy Moraa
 
-$ about
-> Student | Developer | Game Builder
-> Roblox • Python • Web
+> about
+| Student | Programmer
 
-$ skills
-> Python
-> Lua (Roblox)
-> JavaScript
-> Git / GitHub
-> Framer
+> skills
+| Python
+| JavaScript
 
-$ current
-> Building Roblox games
-> Learning full-stack & automation
-> School tech projects
+> projects
+| Marketplace System Game
+| Python Learning Website
 
-$ projects
-> Infection Arena (Roblox)
-> Marketplace System Game
-> Python Learning Website
-
-$ contact
-> Email: nxy.moraa@gmail.com
-> GitHub: github.com/nxymoraa
-
-$ status
-> Always learning. Always building.
+> contact
+| Email: nxy.moraa@gmail.com
 ```
