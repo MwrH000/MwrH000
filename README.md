@@ -30,8 +30,8 @@
 ```
 
 <p align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api.svg?username=MwrH000&show_icons=true&theme=tokyonight" />
-  <img width="380" src="https://streak-stats.demolab.com?user=MwrH000&theme=tokyonight&format=svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MwrH000&theme=tokyonight&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=MwrH000&theme=tokyonight&hide_border=true" />
   <br/>
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=MwrH000&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwrH000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
