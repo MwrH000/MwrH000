@@ -28,3 +28,7 @@
 > contact
 | Email: nxy.moraa@gmail.com
 ```
+
+```text
+بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+```
