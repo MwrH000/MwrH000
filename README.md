@@ -19,7 +19,6 @@
 
 > skills
 | Python
-| JavaScript
 
 > projects
 | Marketplace System Game
