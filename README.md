@@ -29,7 +29,6 @@
 | Email: nxy.moraa@gmail.com
 ```
 
-<br>
 <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MwrH000&theme=monokai"> <br>
 </p>
