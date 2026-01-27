@@ -1,5 +1,5 @@
 <p align="center">
-<img src="ARCH.jpg">
+<img width="120" src="ARCH.jpg">
 </p>
 
 ```diff
