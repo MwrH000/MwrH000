@@ -59,3 +59,4 @@
 <p align="center">
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mwrh000?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false&Points.Commits=10&Points.ContributedToOwnRepositories=3&Points.CreatedRepositories=3&Points.Followers=2&Points.IndirectStars=2&Points.Issues=2&Points.PullRequests=2&Points.CommitsToMyRepositories=2&Points.ContributedTo=5">
 </p>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username)
