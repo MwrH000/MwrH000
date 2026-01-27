@@ -57,7 +57,8 @@
 
 <br>
 <p align="center">
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/mwrh000?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false&Points.Commits=10&Points.ContributedToOwnRepositories=3&Points.CreatedRepositories=3&Points.Followers=2&Points.IndirectStars=2&Points.Issues=2&Points.PullRequests=2&Points.CommitsToMyRepositories=2&Points.ContributedTo=5">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MwrH000&theme=monokai"> <br>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MwrH000&theme=monokai">
+ 
 </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MwrH000&theme=monokai" alt="Profile Details">
 <img src="https://komarev.com/ghpvc/?username=MwrH000&color=blue&style=flat-square">
