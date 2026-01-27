@@ -1,6 +1,6 @@
 <p align="center">
 <img src="CAT.jpg">
-</p> <br>
+</p>
 
 ```diff
 > whoami
