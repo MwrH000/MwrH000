@@ -23,4 +23,4 @@
 | Email: nxy.moraa@gmail.com
 ```
 
-<img src="https://komarev.com/ghpvc/?username=MwrH000&color=blue&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=MwrH000&color=blue&label=Profile+Views">
