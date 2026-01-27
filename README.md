@@ -1,7 +1,7 @@
 <p align="center">
 <img width="320" src="ARCH.jpg"> <br>
 ARCH USER BTW :3
-</p>
+</p> <br>
 
 ```diff
 > whoami
