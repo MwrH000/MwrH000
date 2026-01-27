@@ -1,6 +1,5 @@
 <p align="center">
-<img width=auto src="CAT.jpg"> <br>
-ARCH USER BTW :3
+<img src="CAT.jpg">
 </p> <br>
 
 ```diff
