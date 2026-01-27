@@ -20,6 +20,8 @@
 > skills
 | Python
 | Luau (Roblox)
+| Javascript
+| C++
 
 > projects
 | Marketplace System Game
