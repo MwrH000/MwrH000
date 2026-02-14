@@ -1,6 +1,8 @@
 <p align="center">
 <img src="CAT.jpg">
+</p>
 
+<p align="center">
 ![](https://nirzak-streak-stats.vercel.app/?user=MwrH000&theme=dark&hide_border=false)<br/>
 </p>
 
