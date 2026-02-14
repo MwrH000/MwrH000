@@ -13,5 +13,5 @@ CONTACTS: <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nxy.moraa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mwraaahh)
 
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=MwrH000&color=blue&label=Profile+Views">
