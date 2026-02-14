@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=MwrH000&theme=dark&hide_border=false)<br/>
+ <img src="https://nirzak-streak-stats.vercel.app/?user=MwrH000&theme=dark&hide_border=false"></img>
 </p>
 
 # 💻 Tech Stack:
