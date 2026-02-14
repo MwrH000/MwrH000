@@ -2,7 +2,6 @@
 <img src="CAT.jpg">
 </p>
 
-```diff
 > whoami
 | MwrH000 (MwrH) / Ph4nk000H (Ph4nk)
 
@@ -21,6 +20,5 @@
 > contact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nxy.moraa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mwraaahh)
-```
 
 <img src="https://komarev.com/ghpvc/?username=MwrH000&color=blue&label=Profile+Views">
