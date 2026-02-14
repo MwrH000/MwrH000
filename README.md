@@ -6,16 +6,6 @@
  <img src="https://nirzak-streak-stats.vercel.app/?user=MwrH000&theme=dark&hide_border=false"></img>
 </p>
 
-<br>
-
-```diff
-> whoami
-| MwrH000 (MwrH) / Ph4nk000H (Ph4nk)
-
-> about
-| Student | Programmer
-```
-
 ## MY STACK TECH:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
