@@ -16,8 +16,6 @@
 | Student | Programmer
 ```
 
-<br>
-
 ## MY STACK TECH:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
