@@ -18,7 +18,7 @@
 
 <br>
 <p align="center">
-<img src="cat.gif">
+<img src="dancingcat.gif">
 </p>
 
 <br>
