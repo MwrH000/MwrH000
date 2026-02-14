@@ -14,6 +14,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mwraaahh)
 
 <br>
-<img align="center" src="dancingcat.gif">
+<p align="center">
+<img src="dancingcat.gif">
+</p>
+
 <br>
 <img src="https://komarev.com/ghpvc/?username=MwrH000&color=blue&label=Profile+Views">
