@@ -14,6 +14,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mwraaahh)
 
 <br>
-<img src="https://tenor.com/view/lerolero-dancing-cat-jamming-cat-dance-hands-up-gif-11264491411753627402">Lerolero Dancing Cat Sticker</a>from <a href="https://tenor.com/search/lerolero-stickers"></img>
+<img src="dancingcat.gif">
 <br>
 <img src="https://komarev.com/ghpvc/?username=MwrH000&color=blue&label=Profile+Views">
