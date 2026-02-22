@@ -4,7 +4,7 @@
 
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=mwrh000&theme=tokyonight&hide_border=true">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=tokyonight">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mwrh000&theme=tokyonight">
 </p>
 
 ## MY STACK TECH:
