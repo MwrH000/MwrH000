@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-
-![GitHub Stats](https://streak-stats.demolab.com?user=mwrh000&theme=tokyonight&hide_border=true)
+ <img src="https://streak-stats.demolab.com?user=mwrh000&theme=tokyonight&hide_border=true">
 
 </p>
 
