@@ -15,6 +15,7 @@
 ## CONTACTS:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nxy.moraa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mwraaahh)
+[![X](https://img.shields.io/badge/X-%23E4405F.svg?logo=X&logoColor=white)](https://x.com/Ph4nk000)
 
 <br>
 <p align="center">
