@@ -1,6 +1,6 @@
 <p align="center">
 <img src="CAT.jpg">
-</p>e
+</p>
 
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=mwrh000&theme=tokyonight&hide_border=true">
