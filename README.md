@@ -1,4 +1,4 @@
-<p align="center">a
+<p align="center">
 <img src="CAT.jpg">
 </p>
 
