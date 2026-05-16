@@ -2,10 +2,6 @@
 <img src="CAT.jpg">
 </p>
 
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=mwrh000&theme=tokyonight&hide_border=true">
-</p>
-
 ## MY STACK TECH:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
