@@ -1,8 +1,5 @@
-<p align="center">
-<img src="CAT.jpg">
-</p>
-
 I am a student
+<br>
 
 contact me:<br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nxy.moraa@gmail.com)
