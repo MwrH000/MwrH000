@@ -1,3 +1,3 @@
-<center>
-<img src="catto1.png">
-</center>
+<p align="center">
+  <img src="catto1.png"
+</p>
