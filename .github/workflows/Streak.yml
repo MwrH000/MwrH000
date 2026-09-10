@@ -23,6 +23,6 @@ jobs:
         run: |
           git config --global user.name "MwrH000"
           git config --global user.email "nxy.moraa@gmail.com"
-          git add daily_log.txt
+          git add NothingToSeeHere.txt
           git commit -m "Daily Routine :3" || echo "No changes to commit"
           git push
