@@ -2,7 +2,7 @@ name: Streak
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC (Adjust time if needed)
+    # Runs daily at 00:00 UTC
     - cron: '0 0 * * *'
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
@@ -19,8 +19,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "Mwrh000"
+          git config --global user.name "MwrH000"
           git config --global user.email "nxy.moraa@gmail.com"
-          git add log.txt
-          git commit -m "daily-routine :3" || echo "No changes to commit"
+          git add daily_log.txt
+          git commit -m "chore: auto-commit streak update" || echo "No changes to commit"
           git push
