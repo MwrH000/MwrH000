@@ -1,4 +1,4 @@
-name: Streak
+name: Mwraaahh
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update daily log
+      - name: Bug Fixing
         run: |
           echo "Last active: $(date -u)" > daily_log.txt
 
@@ -23,6 +23,6 @@ jobs:
         run: |
           git config --global user.name "MwrH000"
           git config --global user.email "nxy.moraa@gmail.com"
-          git add NothingToSeeHere.txt
-          git commit -m "Daily Routine :3" || echo "No changes to commit"
+          git add log.txt
+          git commit -m "Fixing" || echo "No changes to commit"
           git push
