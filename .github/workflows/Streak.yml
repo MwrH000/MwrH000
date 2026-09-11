@@ -17,7 +17,7 @@ jobs:
 
       - name: Bug Fixing
         run: |
-          echo "Last active: $(date -u)" > daily_log.txt
+          echo "Last active: $(date -u)" > log.txt
 
       - name: Commit and push changes
         run: |
