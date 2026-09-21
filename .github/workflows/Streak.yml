@@ -15,14 +15,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Bug Fixing
-        run: |
-          echo "Last active: $(date -u)" > log.txt
-
-      - name: Commit and push changes
+      - name: Random Commits (1 to 5)
         run: |
           git config --global user.name "MwrH000"
           git config --global user.email "nxy.moraa@gmail.com"
-          git add log.txt
-          git commit -m "Fixing" || echo "No changes to commit"
+          
+          COUNT=$(( ( RANDOM % 5 ) + 1 ))
+          echo "Making $COUNT commits today..."
+
+          for i in $(seq 1 $COUNT); do
+            echo "Last active ($i/$COUNT): $(date -u)" >> log.txt
+            git add log.txt
+            git commit -m "Fixing #$i"
+            sleep 2
+          done
+
+          git pull --rebase origin main
           git push
