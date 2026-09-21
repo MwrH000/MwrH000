@@ -15,12 +15,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Random Commits (1 to 5)
+      - name: Random Commits (2 to 10)
         run: |
           git config --global user.name "MwrH000"
           git config --global user.email "nxy.moraa@gmail.com"
-          
-          COUNT=$(( ( RANDOM % 5 ) + 1 ))
+
+          COUNT=$(( ( RANDOM % 9 ) + 2 ))
           echo "Making $COUNT commits today..."
 
           for i in $(seq 1 $COUNT); do
